@@ -1,2 +1,6 @@
 # Raph's Java Launcher
 # This is a file that tells the launcher program if there is a newer version
+# The number below is the newest version for the application
+0.0.1
+# The name below is the name of the jar file
+RJLAlpha0.jar
